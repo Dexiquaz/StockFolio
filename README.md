@@ -2,7 +2,7 @@
 
 **Track, analyse and grow your investments.**
 
-Stock Portfolio Management System — AL2 Team8 | SEPM
+Stock Portfolio Management System
 
 ## Tech Stack
 
